@@ -7,5 +7,9 @@ Easy Hand Sign Detection | American Sign Language ASL | Computer Vision
 # ComputerVision
 
 
-https://user-images.githubusercontent.com/105142693/212555265-f1fc7481-5725-4e0d-b3cd-c9c1d8950f56.mp4
+
+
+https://user-images.githubusercontent.com/105142693/212555785-f2e09c14-2174-4a51-80de-766490e0e114.mp4
+
+
 
